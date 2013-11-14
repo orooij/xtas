@@ -4,3 +4,4 @@
 from .config import config                      # noqa
 from .langid import guess                       # noqa
 from .test import trivial_task                  # noqa
+from .tasklist import tasklist                  # noqa
